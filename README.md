@@ -1,4 +1,4 @@
-## CitiBike Data:Jan 2019 - Aug 2019
+## CitiBike Data: Jan 2019 - Aug 2019
 
 ### Goal
 Analyze CitiBike data between January and August 2019 for trends and build a [dashboard](https://public.tableau.com/profile/surabhi.sood3293#!/) using Tableau Public. 
@@ -24,5 +24,5 @@ Further analysis on age demographic reveals that CitiBike is more popular betwee
 
 Interestingly, the higher average of trip duration was found in age group of 18-22 alongwith the elderly's of specific age of 51 and 72! This could be an intereting hidden trend about fitness! 
 
-
+Finally, the most popular start times are at 8 AM and 6 PM mostly as they are rush hours.
 
